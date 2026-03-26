@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **tanjamultonmoy007@gmail.com**
+- 📫 How to reach me **i.m.tanjamul@gmail.com**
 
 - ⚡ Fun fact **"Life’s just another open-world game — I’m here to explore, level up, and complete side quests." 🎮🚀**
 
