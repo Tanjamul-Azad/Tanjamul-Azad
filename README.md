@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Tanjamul Azad
+# 👋 Hey, I'm Tanzamul Azad
+
+[Portfolio — Tanzamul Azad](https://tanzamul.dev)
 
 ### CSE Undergraduate · Aspiring ML Engineer · Builder of Things
 
