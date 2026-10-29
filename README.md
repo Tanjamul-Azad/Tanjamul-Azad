@@ -2,7 +2,7 @@
 
 # Hi, I'm Tanzamul Azad
 
-### AI Engineer · Generative AI Researcher · Full-Stack Developer
+### Generative AI Researcher · Full-Stack Developer
 
 CSE undergraduate at UIU, Dhaka. I build AI-driven products and research explainable, secure ML.
 
