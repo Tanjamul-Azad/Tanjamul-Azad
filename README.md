@@ -29,7 +29,7 @@ CSE undergraduate at UIU, Dhaka. I build AI-driven products and research explain
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**RadFlow**](https://github.com/Tanjamul-Azad/RadFlow) · [demo](https://radflow-edge.vercel.app/) | Offline-first AI radiology triage for district hospitals, turning a chest X-ray into a guideline-grounded report | FastAPI, React, PyTorch |
-| [**Dawat**](https://github.com/Tanjamul-Azad/Dawat) | Bengali wedding invitation platform with personalized guest links and RSVP tracking | TypeScript |
+| [**Dawat**](https://github.com/Tanjamul-Azad/Dawat) · [demo](https://dawatcard.netlify.app/) | Bengali wedding invitation platform with personalized guest links and RSVP tracking | TypeScript |
 | [**UniShare**](https://github.com/Tanjamul-Azad/UniShare) · [demo](https://unishare-app.vercel.app/) | Real-time campus marketplace and community app with listings, groups and chat | React, Node.js, Socket.IO |
 | [**ConvoVerse**](https://github.com/Tanjamul-Azad/ConvoVerse) · [demo](https://tanjamul-azad.github.io/ConvoVerse/) | HCI research prototype where introverted learners rehearse conversations with LLM agents | React, LLM agents |
 | [**SkillEx**](https://github.com/Tanjamul-Azad/SkillEx) · [demo](https://skillex-virid.vercel.app/) | Peer skill-exchange platform with semantic matching and no money involved | React, Spring Boot, MySQL |
