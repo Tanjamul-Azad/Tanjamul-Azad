@@ -1,121 +1,92 @@
 <div align="center">
 
-# 👋 Hey, I'm Tanzamul Azad
+# Hi, I'm Tanzamul Azad
 
-[Portfolio — Tanzamul Azad](https://tanzamul.dev)
+### AI Engineer · Generative AI Researcher · Full-Stack Developer
 
-### CSE Undergraduate · Aspiring ML Engineer · Builder of Things
+CSE undergraduate at UIU, Dhaka. I build AI-driven products and research explainable, secure ML.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tanjamultonmoy?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/tanjamultonmoy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanzamul.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzamul.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjamul-azad)
-[![Gmail](https://img.shields.io/badge/Email-i.m.tanjamul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.m.tanjamul@gmail.com)
+[![Email](https://img.shields.io/badge/Email-i.m.tanjamul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.m.tanjamul@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a Computer Science undergraduate passionate about building AI-driven applications and exploring machine learning. I believe life is like an open-world game — I'm here to explore, level up, and complete every side quest. 🎮
-
-- 🔭 **Currently building:** [Complete Legal Aid](https://github.com/tanjamul-azad) — an AI-powered legal assistance platform
-- 🌱 **Currently learning:** Django & Advanced NLP
-- 🤝 **Open to collaborate on:** Machine Learning & AI-driven Web Applications
-- 💬 **Ask me about:** Python, C++, ML pipelines, and full-stack development
-- ⚡ **Fun fact:** I treat every bug as a boss fight
+- 🔭 **Now:** building [Dawat](https://github.com/Tanjamul-Azad/Dawat), a Bengali wedding invitation platform, and contributing research to PolarWindow for the NASA Space Apps Challenge
+- 🧪 **Research:** explainable intrusion detection (SHAP, XGBoost, autoencoders) and multi-agent LLM systems
+- 🏆 **Hackathons:** Harvard HSIL (national selection with RadFlow), IBM Bob 2.0, Infinity AI BuildFest, NASA Space Apps 2026
+- 💬 **Ask me about:** Python, TypeScript, ML pipelines, LLM agents, full-stack development
+- 📝 More on my [portfolio](https://tanzamul.dev), including case studies, blog posts and my CV
 
 ---
 
-## 🛠️ Tech Stack
+## Featured projects
 
-### Languages
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**RadFlow**](https://github.com/Tanjamul-Azad/RadFlow) · [demo](https://radflow-edge.vercel.app/) | Offline-first AI radiology triage for district hospitals, turning a chest X-ray into a guideline-grounded report | FastAPI, React, PyTorch |
+| [**Dawat**](https://github.com/Tanjamul-Azad/Dawat) | Bengali wedding invitation platform with personalized guest links and RSVP tracking | TypeScript |
+| [**UniShare**](https://github.com/Tanjamul-Azad/UniShare) · [demo](https://unishare-app.vercel.app/) | Real-time campus marketplace and community app with listings, groups and chat | React, Node.js, Socket.IO |
+| [**ConvoVerse**](https://github.com/Tanjamul-Azad/ConvoVerse) · [demo](https://tanjamul-azad.github.io/ConvoVerse/) | HCI research prototype where introverted learners rehearse conversations with LLM agents | React, LLM agents |
+| [**SkillEx**](https://github.com/Tanjamul-Azad/SkillEx) · [demo](https://skillex-virid.vercel.app/) | Peer skill-exchange platform with semantic matching and no money involved | React, Spring Boot, MySQL |
+| [**ML-paper**](https://github.com/Tanjamul-Azad/ML-paper) | SHAP-guided explainable intrusion detection for e-commerce with drift monitoring | Python, XGBoost |
+| [**Complete Legal Aid**](https://complete-legal-aid-beta.vercel.app/) | Legal aid platform for Bangladesh: lawyer search, AI guidance, evidence vault | TypeScript, AI |
+| [**Care Companion**](https://github.com/Tanjamul-Azad/Care-companion) | Healthcare rover on Raspberry Pi 4 with a Django + MySQL platform | Python, Django |
+
+All case studies: **[tanzamul.dev/projects](https://tanzamul.dev/projects)**
+
+---
+
+## Tech stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tanjamul-azad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjamul-azad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjamul-azad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## GitHub stats
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tanjamul-azad&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=Tanjamul-Azad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjamul-Azad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanjamultonmoy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzamul.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjamul-azad)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tanjamul-azad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanjamultonmoy)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanjamul.tonmoy69)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tats-territory)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/Tonmoy">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanjamul-azad&color=blueviolet&style=flat-square&label=Profile+Views)
-
-*"Life's just another open-world game — I'm here to explore, level up, and complete side quests."* 🎮🚀
 
 </div>
